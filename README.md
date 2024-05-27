@@ -1,4 +1,5 @@
 # Stable Diffusion web UI
+# Mudassir Alam
 A web interface for Stable Diffusion, implemented using Gradio library.
 
 ![](screenshot.png)
